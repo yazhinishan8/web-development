@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{background-image:url("company.css");
+background-size:cover;}
+table,th , td {
+  border:1px solid black;
+}
+</style>
+<head>
+<body>
+<center>
+<h2>Freshers vacancy on software company</h2>
+<center>
+<table style="width:100%">
+  <tr>
+    <th>company</th>
+    <th>dept</th> 
+    <th>salary</th>
+    <th>vacancy</th>
+  </tr>
+  <tr style="color:bule";>
+    <td>TCS</td>
+    <td>IT</td>
+    <td>80000</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>INFOSYS</td>
+    <td>ECE</td>
+    <td>50000</td>
+    <td>7</td>   
+  </tr>
+  <tr>
+    <td>ZOHO</td>
+    <td>MECH</td>
+    <td>80000</td>
+    <td>8</td>
+  </tr>
+</table>
+<p>Software companies regularly offer vacancies for freshers from various departments such as Information Technology (IT), Computer Science, Electronics and Communication Engineering (ECE), Electrical and Electronics Engineering (EEE), and even Mechanical Engineering (MECH). These entry-level roles may include software developer, testing engineer, support engineer, or trainee positions in areas like programming, embedded systems, automation, and IT services. Freshers from these departments are expected to have basic technical knowledge, problem-solving skills, and a strong willingness to learn. Many companies provide training programs to help bridge the gap between academic learning and industry requirements, making it a great opportunity for graduates from diverse engineering backgrounds to start and grow their careers in the software industry.</p>
+</body>
+</html>
+
